@@ -1,6 +1,6 @@
 # Master-Project-Thesis An approach to link the datasets metadata of ODISSEI to Microsoft Publication citations
 
-![alt text](Linking Process Overview.png)
+![alt text](https://github.com/spatil741/Master-Project-Thesis/blob/b60413b5bc9132a0f68374ca90e6fc38f8b23ca6/Linking%20Process%20Overview.png)
 
 The below are the methods followed for linking the dataset metadata to the Microsoft Publication
 1) Step1: Data Extraction:
