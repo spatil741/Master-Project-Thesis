@@ -1,0 +1,3 @@
+Dataset Title						PaperID		PaperRefID	Reference Title						PaperTitle
+The 2011 political parties expert survey in Greece	2152079920	2118925485	The 2011 political parties expert survey in Greece	Political parties and immigration in Greece: Between consensus and competition
+The 2011 political parties expert survey in Greece	2263556631	2118925485	The 2011 political parties expert survey in Greece	Coalition oversight and blame avoidance in Greece

@@ -1,0 +1,2 @@
+DOI from ODISSEI	Paper ID	Paper Reference ID	DOI from MAG	Paper title
+10.17026/dans-zbu-hfdc	3082488652	2792230169	10.17026/dans-zbu-hfdc	Adopting security maturity model to the organizations’ capability model
